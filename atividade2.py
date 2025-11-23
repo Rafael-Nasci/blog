@@ -3,7 +3,7 @@ import requests
 
 
 API_BASE = "http://api.olhovivo.sptrans.com.br/v2.1"
-API_TOKEN = "4e72fe0c1c920056a01ded0b98549432a303ea32adc917693a53e0b331b581bc" 
+API_TOKEN = "" 
 CODIGO_LINHA = 8750 
 
 
